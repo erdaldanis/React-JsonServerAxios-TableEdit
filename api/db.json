@@ -1,0 +1,62 @@
+{
+  "urunler": [
+    {
+      "name": "Lenovo XYZ",
+      "brand": "Lenovo",
+      "price": "1.500 TL",
+      "wholesaleprice": "12.00 TL",
+      "quantity": "25",
+      "id": 1
+    },
+    {
+      "name": "Asus ABC",
+      "brand": "Asus",
+      "price": "8.000 TL",
+      "wholesaleprice": "7.500 TL",
+      "quantity": "15",
+      "id": 2
+    },
+    {
+      "name": "Philips ABC TV",
+      "brand": "Philips",
+      "price": "6.000 TL",
+      "wholesaleprice": "5.750 TL",
+      "quantity": "19",
+      "id": 3
+    }
+  ],
+  "postsen": [
+    {
+      "id": "1",
+      "name": "Samsun",
+      "description": "Samsun, Türkiye'nin büyükşehir statüsündeki otuz ilinden biridir. Karadeniz Bölgesi'ndeki Orta Karadeniz Bölümü'nde, Türkiye coğrafyasının en kuzeyinde merkezî bir noktada yer alır"
+    },
+    {
+      "id": "1",
+      "name": "Trabzon",
+      "description": "Trabzon, Türkiye'nin bir ili ve en kalabalık yirmi yedinci şehridir. TÜİK verilerine göre ise Trabzon’un 2020 Nüfusu 811.901 oldu. Erkeklerin nüfusu 402 Bin 224, kadınların nüfusu ise 409 Bin 677 oldu. Karadeniz Bölgesi'nin Doğu Karadeniz Bölümü'nde yer alan ilin Karadeniz'e kıyısı bulunur."
+    },
+    {
+      "id": "1",
+      "name": "Erzurum",
+      "description": "Erzurum, Türkiye'de yer alan şehir ve ülkenin 81 ilinden biridir. Erzurum ovasının güneydoğu kenarında, bu ova ile Palandöken dağının temas sahasında kurulmuş olan Erzurum şehri, 758.279 nüfusu ile Doğu Anadolu Bölgesi'nin en büyük üçüncü ilidir"
+    }
+  ],
+  "poststr": [
+    {
+      "id": "2",
+      "name": "Samsun",
+      "description": "Samsun, Türkiye'nin büyükşehir statüsündeki otuz ilinden biridir. Karadeniz Bölgesi'ndeki Orta Karadeniz Bölümü'nde, Türkiye coğrafyasının en kuzeyinde merkezî bir noktada yer alır"
+    },
+    {
+      "id": "2",
+      "name": "Trabzon",
+      "description": "Trabzon, Türkiye'nin bir ili ve en kalabalık yirmi yedinci şehridir. TÜİK verilerine göre ise Trabzon’un 2020 Nüfusu 811.901 oldu. Erkeklerin nüfusu 402 Bin 224, kadınların nüfusu ise 409 Bin 677 oldu. Karadeniz Bölgesi'nin Doğu Karadeniz Bölümü'nde yer alan ilin Karadeniz'e kıyısı bulunur."
+    },
+    {
+      "id": "2",
+      "name": "Erzurum",
+      "description": "Erzurum, Türkiye'de yer alan şehir ve ülkenin 81 ilinden biridir. Erzurum ovasının güneydoğu kenarında, bu ova ile Palandöken dağının temas sahasında kurulmuş olan Erzurum şehri, 758.279 nüfusu ile Doğu Anadolu Bölgesi'nin en büyük üçüncü ilidir"
+    }
+  ]
+}
