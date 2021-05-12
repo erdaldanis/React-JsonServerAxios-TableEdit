@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Hey, How are you doing ?/ Selam nasılsın dostum ?
+
+Bu projede axios , json server table edit, react veri ekleme veri güncelleme gibi bir çok işlemi gerçekleştirdiğim bir çalışma. Şöyle bir göz atabilirsin, eğer üzerinde çalışmak istiyorsan çekinme yeni bir ortam yaratıp pr açabilirsin. Kolay gelsin 😃
+
+In this project, it is a work where I perform many operations such as axios, json server table edit, react data addition, data update. You can have a look like this, if you want to work on it, don't be afraid, you can create a new environment and open a PR. Good luck with 😃
+
+👋 Json server için şu yolu terminalde yazman yeterli olacaktır. /  For the Json server, it will be enough to write the following path in the terminal.
+
+<pre> <code> json-server --watch api/db.json --port 3004 </code> </pre>
+
+
 ## Available Scripts
 
 In the project directory, you can run:
